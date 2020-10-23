@@ -1,7 +1,4 @@
-// <⚠️ DONT DELETE THIS ⚠️>
-import "./styles.css";
-// <⚠️ /DONT DELETE THIS ⚠️>
-
+//import "./styles.css";
 const addTaskForm = document.querySelector(".js-addTaskForm"),
   taskInput = addTaskForm.querySelector("input"),
   pendingList = document.querySelector(".js-pending"),
